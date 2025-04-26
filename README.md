@@ -1,6 +1,6 @@
 # To-Do-System
 
-# Create database and name it
+# Create database on mysql(phpmyadmin) and name it
   * todo_list
 # Remove this file on the project and import it on mysql(phpmyadmin)
   * todo_list.sql
